@@ -1,0 +1,1 @@
+web: gunicorn Fruits_Vegetable_Classification:app

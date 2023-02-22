@@ -1,0 +1,3 @@
+chrome --disable-web-security --disable-gpu --user-data-dir="C:\Users\ajeet\OneDrive\Desktop\Summer Project\Frontend\chromeTemp"
+python .\Fruits_Vegetable_Classification.py
+C:\Users\ajeet\OneDrive\Desktop\Summer ProjectC\Frontend\index.html
